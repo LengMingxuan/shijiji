@@ -6,3 +6,4 @@ conn = pymongo.Connection("localhost",27017)#(... "mongodb://user:password@staff
 #创建到MongoDB的链接↑(端口默认)
 #·····················
 
+print("ss")
